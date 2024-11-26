@@ -1,0 +1,4 @@
+../Core/Src/app.c:42:10:MovingMean	24	static
+../Core/Src/app.c:65:8:Kalman	24	static
+../Core/Src/app.c:84:7:lookupTemperature	56	static
+../Core/Src/app.c:110:6:app	32	static

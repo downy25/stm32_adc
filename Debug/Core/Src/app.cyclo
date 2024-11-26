@@ -1,0 +1,4 @@
+../Core/Src/app.c:42:10:MovingMean	3
+../Core/Src/app.c:65:8:Kalman	1
+../Core/Src/app.c:84:7:lookupTemperature	4
+../Core/Src/app.c:110:6:app	1
